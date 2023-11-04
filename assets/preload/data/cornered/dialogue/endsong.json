@@ -1,0 +1,482 @@
+{
+
+	{	
+		"character": "empty", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "No huyais cobardes!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "tired", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uf, menos mal logramos escapar, me estaba quedando sin aire.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "La proxima vez, deberiamos hacer caso omiso cuando haya gente en atajos asi.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "empty", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Entonces, lo que queriais era tomar un atajo?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "scared", 
+		
+		"textbox": "vtl",
+		
+		"text": "!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "scared", 
+		
+		"textbox": "vtl",
+		
+		"text": "!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Adonde queriais ir?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "B-bueno, estabamos acortando camino para ir a la autopista de la Calle Philly, pero con esa persecucion nos terminamos de perder.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Eso era todo?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Teneis que ir al callejon que esta ahi enfrente y girar a la derecha, una vez hallais salido del callejon la primera casa que haya girando a la izquierda, ahi es.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "hetto", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh. Bueno, gracias!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Espera, aun tengo preguntas sobre Boyfriend!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "No tengo nada que decirte al respecto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Se que pronto lo conoceras, solo recuerda lo que has vivido y quizas puedas ganar.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{
+		"character": "hetto", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun vamonos!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "S-si!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "A-adios Rev.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "empty", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "-un corto rato despues-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+	
+	{	
+		"character": "hetto", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "*Suspiro* Menos mal nos fuimos rapido.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ahora, dijo que habia que girar en una casa a la izquierda.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "hetto", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ummm...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uhh, Hetto...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "empty", 
+		"anim": "empty", 
+		
+		"textbox": "invis",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Rev/Rev_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	}
+
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Korofunk",
+			"korone",
+			[
+				180,
+				120,
+				80
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extras1",
+	"weekName": "Extras1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week1",
+	"startUnlocked": false
+}

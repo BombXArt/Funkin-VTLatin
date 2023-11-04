@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Purpurine",
+			"nymsam",
+			[
+				140,
+				84,
+				183
+			]
+		],
+		[
+			"Bear Hug",
+			"nymsam",
+			[
+				255,
+				196,
+				138
+			]
+		],
+		[
+			"Spacefreak",
+			"nimu",
+			[
+				223,
+				147,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"nymsam",
+		"",
+		""
+	],
+	"storyName": "Nymphaaea - Samita Cross",
+	"weekName": "NymSam",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}

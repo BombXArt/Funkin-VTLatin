@@ -1,0 +1,902 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Por que no almorzamos en la casa?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oye, no hay nada de malo en darnos lujos de vez en cuando y comer afuera.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Heheh. Bien, si tu lo dices.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Como sea, habia traido aqui la lista de quienes se anotaron en las clases de canto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y cuantos se anotaron?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo uno.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y quien es?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "No he revisado, la verdad. Dejame ver.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Heyyyy! El que se anoto fue Ca-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "UN GATO!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "....", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nrghhh...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Es tan lindo es tan lindo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Me recuerda al mio es muy bonito!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ahh Ahh watafac watafac!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "PERO QUE-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "QUE RAYOS EL GATO HABLA!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto ayudame el gato habla!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "......", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uhmm, Rakkun...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "No se si te diste cuenta, pero ese no es un gato cualquiera.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ah, es Capitan Gato!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hola Cap! Ehh, perdon por lo de ahorita.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nah, no hay problema.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "La verdad es un gusto verlas aqui!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y estan bonitos sus nuevos outfits tambien, veo que combinaron los antiguos y les quedan bastante bien la verdad.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Owww, gracias!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey Rakkun!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cap es de hecho el que se anoto en las clases.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ah si? Genial!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Saben que se me ocurre? Ya que estamos aca los 3 podriamos adelantar lo de las clases y eso.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Estaria bien! Podemos ir a mi casa y darte las clases alla Cap!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "? Y por que no aqui mismo, watafac?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Es que... Deje mi micrófono y las bocinas alla.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Con razon sentia que nos faltaba algo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ah.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues no hay problema, no tengo tanta prisa hoy igual la verdad.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/FullVol/FullVol_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	}
+
+}

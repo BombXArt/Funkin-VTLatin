@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Papsy Garden",
+			"song-papitas",
+			[
+				252,
+				173,
+				62
+			]
+		],
+		[
+			"Momazo",
+			"song-luisardo",
+			[
+				70,
+				70,
+				70
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Extras 4",
+	"weekName": "Extras4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week4",
+	"startUnlocked": false
+}

@@ -1,0 +1,69 @@
+{
+	"name": "hetto",
+	"image": "dialogue/Hetto_Dialogues_Rev",
+	"position": {
+		800, 
+		40
+	},
+	"animations": {
+		{
+			"name": "scared",
+			"anim": "Hetto Scared",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "worried",
+			"anim": "Hetto Worried",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "upset",
+			"anim": "Hetto Upset",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "angry",
+			"anim": "Hetto Angry",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "serious",
+			"anim": "Hetto Serious",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+	},
+	"scale": 1,
+	"no_antialiasing": false,
+	"alpha": 1,
+	"inactive_alpha": 0
+}

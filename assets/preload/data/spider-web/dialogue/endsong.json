@@ -1,0 +1,843 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Huf, de hecho me siento un poco mejor.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Submission/Submission_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Asi se habla!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Submission/Submission_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo, entre menos escuche esos chistes estamos mejor.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Submission/Submission_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Realmente nadie quiere averiguar que pasa si me enojo lo suficiente.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Submission/Submission_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "No le crean chat, las sumisas son mañosas como los ogros", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_3" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "QUE SOY QUE?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ay no, no otra vez.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y reafirmo mi palabra. Es sumisa y sorda xd", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_4"  
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "WEY TU OTRA VEZ?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Reto: Si te enojas eres sumisa (vas perdiendo)", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_5" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Emi calmate, recuerda lo que te dije!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "My sumisa reaction:", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_6" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Tonto chat no ayuda en nada!)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Submission/Submission_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Jaja sumisa", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_7"  
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si niega que es sumisa es pq si lo es chat recuerden ese consejo", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_8" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sumisa", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_9" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sumisa", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_9" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sumisa", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_9" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sumisa", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_9"  
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh, no se leyo este.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "No los escuches Emi solo te estan bromeando.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eso es lo que te diria si fuera verdad, pero tienen razón y al final solo eres la sumisita de Nova y de medio Twitch.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uughh, oye ese tipo de comentarios no los permito en mi chat! Lo voy a banear, a ver.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Yyyy, te vas baneado.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Listo. Ahora, hay alguien que tenga algo NO FUNABLE que decir?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Submission/Submission_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto te diste cuenta que lo leiste en voz alta?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ay.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "E-espero que Emi no me haya escuchado.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey chicas, estan bien por a-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oye que te pasa?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "! Emi!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Submission/Submission_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	}
+
+}

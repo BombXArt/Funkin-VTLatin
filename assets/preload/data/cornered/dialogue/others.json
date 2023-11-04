@@ -1,0 +1,47 @@
+{
+	"name": "others",
+	"image": "dialogue/Others_Dialogues_Rev",
+	"position": {
+		60, 
+		100
+	},
+	"animations": {
+		{
+			"name": "bored",
+			"anim": "Ugan Bored",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "joke",
+			"anim": "Ugan Joke",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "serious",
+			"anim": "Chuches Serious",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": true
+		},
+	},
+	"scale": 1,
+	"no_antialiasing": false,
+	"alpha": 1,
+	"inactive_alpha": 0
+}

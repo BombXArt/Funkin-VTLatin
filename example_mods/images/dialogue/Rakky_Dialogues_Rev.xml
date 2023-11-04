@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rakky_Dialogues_Rev.png">
+<SubTexture name="Rakky Scared0000" x="0" y="0" width="274" height="565"/>
+<SubTexture name="Rakky Tired0000" x="274" y="0" width="270" height="563"/>
+<SubTexture name="Rakky Worried0000" x="544" y="0" width="274" height="564"/>
+<SubTexture name="Rakky Happy0000" x="0" y="565" width="277" height="566"/>
+<SubTexture name="Rakky Upset0000" x="277" y="565" width="405" height="564"/>
+<SubTexture name="Rakky Angry0000" x="682" y="565" width="274" height="564"/>
+<SubTexture name="Rakky Normal0000" x="0" y="1131" width="274" height="564"/>
+<SubTexture name="Rakky Serious0000" x="274" y="1131" width="274" height="564"/>
+</TextureAtlas>

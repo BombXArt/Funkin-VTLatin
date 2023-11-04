@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-14,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-28,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				39,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-14,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Rakky_Sad",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "rakky",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		64,
+		103
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

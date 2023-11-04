@@ -1,0 +1,101 @@
+{
+	"song": {
+		"events": [
+			[
+				8423.07692307692,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-Alt"
+					]
+				]
+			],
+			[
+				52615.3846153846,
+				[
+					[
+						"Play Animation",
+						"winOpen",
+						"dad"
+					]
+				]
+			],
+			[
+				54346.1538461538,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rebecca"
+					]
+				]
+			],
+			[
+				56192.3076923077,
+				[
+					[
+						"Change Character",
+						"0",
+						"rakky"
+					],
+					[
+						"Change Character",
+						"2",
+						"hetto-speaker"
+					]
+				]
+			],
+			[
+				85768.2692307692,
+				[
+					[
+						"Smooth cam zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				100534.615384615,
+				[
+					[
+						"Smooth cam zoom",
+						"0.65",
+						"1"
+					]
+				]
+			],
+			[
+				129034.615384615,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				151038.461538461,
+				[
+					[
+						"Smooth cam zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				160038.461538461,
+				[
+					[
+						"Play Animation",
+						"amazing",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

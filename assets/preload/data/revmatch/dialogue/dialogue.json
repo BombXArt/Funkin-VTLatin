@@ -1,0 +1,762 @@
+{
+
+	{	
+		"character": "hetto", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oye Rakkun, creo que vamos tarde a la clase de hoy.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "tired", 
+		
+		"textbox": "vtl",
+		
+		"text": "Perdon es mi culpa, no recordaba que mi reloj esta atrasado.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "normal", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero descuida, conozco un atajo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "normal", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sigueme, por el callejon!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "others", 
+		"anim": "joke", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y despues de eso el femboy salto desde el cuarto piso.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "D9000A",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "others", 
+		"anim": "joke", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oye, segura que este atajo es seguro?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "others", 
+		"anim": "joke", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip, yo he usado este atajo varias veces.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "surprise", 
+		
+		"textbox": "vtl",
+		
+		"text": "?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y vosotras quienes sois?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm? Nunca habia visto gente pasando por aqui.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno bueno, parece que tenemos aqui al circo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "C-circo? A que te refieres?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues, vas vestida de rata y la otra parece que no le ha dado el sol en, bueno, desde siempre!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "En serio, si no son payasos son furras!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{
+		"character": "hetto", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey Rakkun es una mapache, no una rata!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "hetto", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ademas, tu tienes orejas de conejo, tu amigo de rojo si es furro, y el de amarillo se parece a Baldi!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y en serio a Piel Brillante le parezco sacado del circo?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "others", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rev quieres que te responda o lo dejo como sorpresa?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FFD800",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oigan pueden calmarse todos ya?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "others", 
+		"anim": "bored", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues para ser justos la que empezo fue tu amiguita, asi que la que deberia calmarse es ella.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "D9000A",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue" 
+	},
+	
+
+	{	
+		"character": "hetto", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero porque el de orejas llamo rata a Rakkun!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto, basta por favor.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nrgh, bueno.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, y ustedes que quieren?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo queriamos cortar cami-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que cosa? Habla mas alto niña afonica!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "...?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "others", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Perdona mi sordera Rev, pero creo que dijo que quieren cantar.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FFD800",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{
+		"character": "rev", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "HUH?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "E-eso no fue lo que yo-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uuugghhh, laaaaaa puta madre, justo lo que no queria hoy, un dia en el que todo se va a ir a la mierda!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Quieren cantar? Bien, pero luego las quiero fuera de mi vista!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Yo nunca dije eso.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "normal", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero por otro lado, nunca le digo que no a cantar un poco!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "others", 
+		"anim": "bored", 
+		
+		"textbox": "vtl",
+		
+		"text": "Che, hace un poco de espacio, necesito sentarme un rato.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "D9000A",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Umm, se dice -por favor-.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "others", 
+		"anim": "bored", 
+		
+		"textbox": "vtl",
+		
+		"text": "Okey vale voy a tomar eso como un no.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "D9000A",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+	
+	{	
+		"character": "hetto", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	}
+
+}

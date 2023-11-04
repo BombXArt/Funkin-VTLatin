@@ -1,0 +1,466 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm. Es una bonita noche!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip. Un momento tranquilo para mi, sin tener que salir con paraguas o capucha.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Tu lo has dicho!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Amigo ojala Emi pudiera ver este lindo paisaje, siento que a ella le gustaria.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "busOpen",
+		
+		"auto": true,
+		"autoEndTimer": 6
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y hablando del Rey de Roma.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh, ahi estas!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText",
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ehh, perdon por la tardanza chicas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "A veces es horrible viajar en autobus.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Espera, por que viniste en bus en vez de en tu moto?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Yaaaa no siento tanta confianza de viajar en moto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que, tienes miedo que te vuelvas a chocar?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey, ya dije que ese accidente fue por mi primo, no por mi!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Aahahah! Tranquila, solo te estaba molestando un poco.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Heheh. Si, al menos ya todo eso paso.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Dejando eso de lado, deben recordar que yo vine por sus Clases de Canto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh si, aqui llevo los microfonos y mis bocinas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Dah descuida. Tengo mi propio microfono.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/emiText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nice!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bien, que tal primero algo para calentar?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues por mi esta bien.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hagamoslo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Kukis/Kukis_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	}
+
+}

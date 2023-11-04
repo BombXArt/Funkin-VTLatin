@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Happy Hung",
+			"rebeccadark",
+			[
+				28,
+				110,
+				157
+			]
+		],
+		[
+			"Dream Team",
+			"song-nymsam",
+			[
+				140,
+				84,
+				183
+			]
+		],
+		[
+			"Spacefreak EX",
+			"song-nimu",
+			[
+				223,
+				147,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extras2",
+	"weekName": "Extras2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week2",
+	"startUnlocked": false
+}

@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky DOWN note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				6
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP NOTE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NymSam_Duo",
+	"position": [
+		-20,
+		-310
+	],
+	"healthicon": "nymsam",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		196,
+		138
+	],
+	"camera_position": [
+		0,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

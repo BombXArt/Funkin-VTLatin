@@ -1,0 +1,4 @@
+Value 1: 0/1/2 = OFF/ON/Reset Gradient
+
+This is actually Super_Hugo's Philly Glow Recreation,
+I just edited it to fit with Korofunk xd

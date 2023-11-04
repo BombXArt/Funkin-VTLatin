@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Parra_Assets",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "parra",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		117,
+		229
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				30,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				30,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-2,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-4,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": false,
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-18,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "BF hit"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Rakk_Scared",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "rakky",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		64,
+		103
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

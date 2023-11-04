@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"FullVolume",
+			"cap",
+			[
+				218,
+				154,
+				94
+			]
+		],
+		[
+			"FreshChill",
+			"cap",
+			[
+				218,
+				154,
+				94
+			]
+		],
+		[
+			"Onii",
+			"cap",
+			[
+				218,
+				154,
+				94
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "cap_story",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"capcat",
+		"",
+		""
+	],
+	"storyName": "Capitan Gato",
+	"weekName": "Captain Cat",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

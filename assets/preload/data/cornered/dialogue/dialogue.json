@@ -1,0 +1,482 @@
+{
+
+	{	
+		"character": "rakky", 
+		"anim": "happy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Je, pues no estuvo tan mal!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "normal", 
+		
+		"textbox": "vtl",
+		
+		"text": "Te llamas Rev verdad?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "happy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sabes, eres bastante bueno; siento que podrias estar al nivel del chico de los rumores!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Chico de los rumores?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "normal", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si, un chico de cabello azul con una gorra y un microfono, es la razon por la que empece mis clases de canto!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "happy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Me gustaria poder cantar un dia con el, de hecho.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh, hablas de Boyfriend.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ya lo enfrente, y fue mi peor error", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "L-lo conoces?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si, pero no es como lo imaginan.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "rev", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Llevo tres meses escondiendome, por su culpa estoy huyendo de gente como tu.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Dejame explicarte lo que hace Boyfriend. Rapea contigo, pero en un punto lleva todo a limites donde habran consecuencias irreversibles.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y una vez termina de cantar solo se va y te deja ahi, lidiando con SU desastre.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Dejame explicarte una cosa. En realidad me he estado conteniendo, no quiero que enfrentes el vacio de la muerte.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "V-v-vacio? A que te refieres?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Me refiero al vacio negro donde solo ves tu cadaver y ves las consecuencias de haber fallado, y estar forzado a repetir una y otra vez hasta que logres salir de esa situacion.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Como lo se? Facil, yo tambien estuve en tu situacion, solo que mi rival era Boyfriend.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun, quizas deberiamos irnos. Emi no debe tardar en llegar.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sehh, tienes razon.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero como veo que quereis enfrentaros a BF...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "scared", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "scared", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "cornered", 
+		
+		"textbox": "vtl",
+		
+		"text": "Os dare una prueba de su nivel.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	}
+
+}

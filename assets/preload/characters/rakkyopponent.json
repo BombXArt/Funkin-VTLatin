@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-43,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-8,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-43,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-11,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF NOTE UP MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RAKKUN",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "rakkyopponent",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		64,
+		103
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

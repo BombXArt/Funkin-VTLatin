@@ -1,0 +1,129 @@
+{
+	"position": [
+		406,
+		-80
+	],
+	"dialogue_pos": "center",
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "Nametags_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "empty",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "No_Name",
+			"idle_name": "No_Name"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "rakkun",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Rakkun_Name",
+			"idle_name": "Rakkun_Name"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hetto",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Hetto_Name",
+			"idle_name": "Hetto_Name"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cap",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Cap_Name",
+			"idle_name": "Cap_Name"
+		},
+		{
+			"loop_name": "Who_Name",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Who_Name",
+			"anim": "who",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Nymph_Name",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Nymph_Name",
+			"anim": "nymph",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Sammy_Name",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Sammy_Name",
+			"anim": "sammy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Nimu_Name",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Nimu_Name",
+			"anim": "nimu",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Emi_Name",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Emi_Name",
+			"anim": "emi",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

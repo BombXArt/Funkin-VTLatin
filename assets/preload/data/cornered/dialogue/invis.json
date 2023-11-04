@@ -1,0 +1,9 @@
+{
+	"name": "invis",
+	"image": "VTL_Speech",
+	"position": {50, 440},
+	"scaleX": 1,
+	"scaleY": 1,
+	"no_antialiasing": false,
+	"alpha": 0.2
+}

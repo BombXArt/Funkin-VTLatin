@@ -1,0 +1,531 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				10666.6666666667,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"2",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				10750,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				13333.3333333333,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				13416.6666666667,
+				[
+					[
+						"Smooth cam zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				16083.3333333333,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				18666.6666666667,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				18750,
+				[
+					[
+						"Smooth cam zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				21833.3333333333,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				21916.6666666667,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				27083.3333333333,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					],
+					[
+						"Dadbattle Spotlight Recreation",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				32083.3333333333,
+				[
+					[
+						"Smooth cam zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				48333.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50333.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51333.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0"
+					]
+				]
+			],
+			[
+				52166.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				52333.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				52666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				52833.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				52916.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				53000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				53083.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				53166.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				53250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					],
+					[
+						"Dadbattle Spotlight Recreation",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"2",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				53416.6666666667,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				56083.3333333334,
+				[
+					[
+						"Smooth cam zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				58750,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				61333.3333333333,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				61416.6666666667,
+				[
+					[
+						"Smooth cam zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				64500,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64583.3333333334,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				69666.6666666667,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				69750,
+				[
+					[
+						"Smooth cam zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Dadbattle Spotlight Recreation",
+						"0",
+						""
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				74750,
+				[
+					[
+						"Smooth cam zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		]
+	}
+}

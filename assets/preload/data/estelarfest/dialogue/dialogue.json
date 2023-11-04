@@ -1,0 +1,806 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Niceeee, GODDD!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ves Magma? Te dije que Rakkun cantaba genial!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "E-eh~ Gracias Cap.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fest/Fest_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y yo Cap? Que hay de mi?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cantas como el poto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "... Ah.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "NAHNAH MENTIRA MENTIRA SI CANTAS GOD TAMBIEN STAR!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "PFFJAHAH perdoname Star quita esa carita de decepcion!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "u.u", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "A mi me gusta como cantan ambas, en serio.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Gracias Het!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sin embargo y no lo digo por ustedes sino por el entorno, pero siento que aun podria ser mas interesante.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "a", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Yo se como hacerlo mas interesante.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ah si? Jeheh, entonces muestranos.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sera un placer!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Fest/Fest_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "limoRun",
+		
+		"auto": true,
+		"autoEndTimer": 10
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uhh, M-Magma? Esa fue la limo encendiendose?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/starText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Tal vez!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "QUE?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oye dejanos bajar a los asientos al menos!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nop, lo siento, no gracias!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "EH?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "MAGMA! MAGMAAA!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "MAGMA PSICOPATA DEJANOS BAJAR!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oigan chicas tranquilas! No vamos ni a 20 Km/h, no se van a caer.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eehhhh-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Jeh, se imaginan cantar encima de una limo en movimiento?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oooye esa es buena idea!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nono espera que-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Magma! Manten esa velocidad! No quiero que les de un ataque de panico a las chicas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si capitan!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cap aveces eres un psicopata certificado!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "PFFHAJAHJAHJAH!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Calma chicas solo sigan cantando, va a ser como cantar en el estacionamiento.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ademas realmente no vamos tan rapido, tranquila Rakkun. Esto tambien me asusta un poco si es que se caen, pero a este paso de abuela es poco probable.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Njeheh. Bueno, confio en ti Het.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y tu Star?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, si tu confias entonces no hay mucho problema, supongo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Fest/Fest_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	}
+
+}

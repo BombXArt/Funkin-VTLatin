@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				564,
+				566
+			],
+			"anim": "winOpen",
+			"fps": 24,
+			"name": "Win_Open",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-Alt",
+			"loop": false,
+			"name": "Idle-Alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rebecca_Dark",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "rebeccadark",
+	"flip_x": false,
+	"healthbar_colors": [
+		11,
+		44,
+		63
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

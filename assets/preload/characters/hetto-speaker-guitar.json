@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "guitar",
+			"loop": false,
+			"name": "Guitar"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Speaker_Hetto_Guitar",
+	"position": [
+		0,
+		-140
+	],
+	"healthicon": "hetto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		175,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

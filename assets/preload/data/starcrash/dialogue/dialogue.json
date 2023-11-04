@@ -1,0 +1,1118 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Amigo que GODD!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm, creo que ya asimile el movimiento encima de la limo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Igual yo, siento que dificilmente me podria caer.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues que tal si subimos un poco mas la velocidad?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eh disculpa que", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oooye Magmaaa...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Pisale a fondo y que vaya mas rapido la limo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ehh Cap, no creo que sea una buena idea. Esta velocidad ya esta bien para que esten ahi arriba sin riesgo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ah no como crees? Todo estara bien, de veras!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Umm Cap, el es el chofer por algo. Quizas deberias escucharlo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Vamos Magma acelera un poco!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cap no estabas alla arriba?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "CAP NO ME IGNORES!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Haciendo lo que el quiera. No me sorprende.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Amigo te respeto por soportar ser su roomie.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cap deja- Ngh- de molestar!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y tu dejame subir la velocidad!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "TE DIJE QUE NO, SE PUEDEN CAER EN LA AUTOPISTA!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "TI DIJI KI NI, SI PIDIN KIIR IN LI ITIPISTI!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hermano como tienes tanta fuerza para forcejear en esas patitas?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ya- Dejame- Acelerar!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Crash/Crash_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "brakeBroke",
+		
+		"auto": true,
+		"autoEndTimer": 8
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "......Peeeensandolo bien, tal vez es mejor seguir a la misma velocidad.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "ESTO ES MALO ESTO ES MALO ESTO ES MALO!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "B-bueno, q-que es lo peor que podria pasar, que la limo pierda el control y acelere?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Crash/Crash_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm. No paso nada.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, supongo que nos preocupamos de m-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText",
+		
+		"auto": true,
+		"autoEndTimer": 8
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "-AAAAAHHHHH!!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText",
+		"startSound": "limoSpeed",
+		
+		"auto": true,
+		"autoEndTimer": 8
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "AAAGH, CAP MAGMA QUE ESTA PASANDO ALLA ABAJO?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eeehhh, n-nada, todo esta bien chicas!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "A MI ME PARECE QUE NO ESTA BIEN, GATO PSICOPATA!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eehh, s-solo intenten no caerse!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Okey plan B, intenta subir el freno de mano y yo intentare frenar!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Me parece bien!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Gnnhhg...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText",
+		"startSound": "brakeBroke"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uhhh Cap, tenemos un problema.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "brakeBroke",
+		
+		"auto": true,
+		"autoEndTimer": 8
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Tenemos dos problemas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey chicasss!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eehh esto sonara mal pero... Se rompio la palanca de velocidades.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "QUE?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip. Eso y que tambien, jeheh, se rompieron el freno y el freno de mano.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Q U E ?!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Magma y yo estamos intentando detener la limo lo juro!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Mejor bajo a ayudarlos, ustedes comparten la misma neurona.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Grosero, pero gracias por la ayuda.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eehh mientras detenemos la limo, que tal si cantan un poco mas?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ya saben, para -alivianar la situacion-.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y como se aliviana ESTA situacion?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ustedes solo resistan chicas! V-vamos Hetto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si si claro, quiero cantar una cancion sobre COMO ERES UN MALDITO LUNATICO!!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	}
+
+}

@@ -1,0 +1,503 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Um hey chicas, buenas noticias!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Logramos arreglar el problema con la limo asi que vamos a parar en un minuto!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": ".-.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": ".-.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "(...Ya no me da tanta risa que me vean asi.)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/Crash_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "*un poco despues*", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Aahh, preciosa tierra firme!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ehh, perdon por todo lo de hoy chicas. No habia planeado nada de esto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, honestamente me diverti un poco.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "No me negaria si algun dia se repitiera!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun, sabia que eras medio masoquista, pero no pense que tanto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "PFFFJAHAJAJAHAH!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Meh, a quien engaño, yo tambien me diverti.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, al menos ustedes se divirtieron. Pero que hay de Sta-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "AAHH STAR!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "ME LAS PAGARAS POR CASI MATARME!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Magma devuelve la limo por mi, tu sabes donde es la consesionaria de rentas. Yo estare algo ocupado!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "VUELVE AQUI FELINO SOCIOPATA!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "STAR NO PLANEE NADA NO FUE MI CULPA!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Al menos al principio!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": ".... Creen que estara bien?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Meh, probablemente a Star se le pase el cabreo mañana.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "SI NO TE ALCANZO HOY SERA MEJOR QUE TE ESCONDAS MAÑANA!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "....", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Vaya ironia eh?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Crash/PostCrash_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	}
+
+}

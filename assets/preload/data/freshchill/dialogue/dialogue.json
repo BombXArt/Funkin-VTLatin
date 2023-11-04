@@ -1,0 +1,302 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Heyyy, pues no soy tan malo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y que onda, sale otra?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cap.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues bien a darle!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y uno, y dos, y un, dos-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cap!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eh?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "No quiero sonar mala, y la verdad es que si cantas bien.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero no puedes solo empezar a lo loco.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Te segui el ritmo porque era una buena tonada, pero el punto de las -clases de canto- es que tu me sigas el ritmo a mi para que aprendas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno bueno perdon. Solo me inspire, vale?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, no hay problema la verdad. Tambien es como una salida de amigos.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Esta cancion es algo calmada. Creo que me podras seguir el ritmo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo canta despues de mi y sigueme el paso, de acuerdo?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Vale vale.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Fresh/Fresh_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	}
+
+}

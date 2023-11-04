@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "menu",
+	"idle_anim": "menu",
+	"position": [
+		490,
+		250
+	],
+	"scale": 0.67,
+	"image": "menu_comsoon",
+	"flipX": false
+}

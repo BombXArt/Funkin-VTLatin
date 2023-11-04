@@ -1,0 +1,9 @@
+{
+	"name": "vtl",
+	"image": "VTL_Speech",
+	"position": {50, 440},
+	"scaleX": 1,
+	"scaleY": 1,
+	"no_antialiasing": false,
+	"alpha": 1
+}

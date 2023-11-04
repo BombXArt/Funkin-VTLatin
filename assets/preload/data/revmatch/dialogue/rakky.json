@@ -1,0 +1,102 @@
+{
+	"name": "rakky",
+	"image": "dialogue/Rakky_Dialogues_Rev",
+	"position": {
+		800, 
+		100
+	},
+	"animations": {
+		{
+			"name": "scared",
+			"anim": "Rakky Scared",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "tired",
+			"anim": "Rakky Tired",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "worried",
+			"anim": "Rakky Worried",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "happy",
+			"anim": "Rakky Happy",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "upset",
+			"anim": "Rakky Upset",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "angry",
+			"anim": "Rakky Angry",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "normal",
+			"anim": "Rakky Normal",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "serious",
+			"anim": "Rakky Serious",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+	},
+	"scale": 1,
+	"no_antialiasing": false,
+	"alpha": 1,
+	"inactive_alpha": 0
+}

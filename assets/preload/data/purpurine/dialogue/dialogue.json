@@ -1,0 +1,1663 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cumpliendo con su promesa, Cap promociono el negocio de Rakkun y Hetto.", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Hettorial/Intro_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y funciono bastante bien, pues el par se abarroto de solicitudes de clase en solo una semana.", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Hettorial/Intro_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Habian desde fanaticos y seguidores de ambas, hasta amigos y conocidos. Eso solo las llenaba de entusiasmo.", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Hettorial/Intro_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Amigos y amigas, como las 2 protagonistas de esta parte de la historia.", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Purpurine/W2Intro",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "2 chicas que decidieron cantar juntas, y a quienes Rakkun y Hetto no habian visto en un largo tiempo.", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Purpurine/W2Intro",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "thunder_1" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "AAAHHH!!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rayos, la lluvia nos agarro por sorpresa!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sehhh. Tuvimos suerte de que este lugar estaba en la misma calle.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, supongo que no saldremos de aqui hasta dentro de unas horas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oowww, y se supone que tenemos una clase dentro de poco!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Relajate. Son nuestras amigas, seguro que entenderan.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm. Bueno, quizas tienes razon.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Santas bellotas, este lugar es demasiado inquietante!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ni que lo digas. Y con la tormenta que hay afuera se ve mucho peor.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Acaso este lugar esta abandonado?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Umm, creo recordar que habia un mito de que este lugar pertenece a una mafia.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "UNA MAFIA?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip, mafia. Pero escuche eso hace ya años asi que no estoy segura. Probablemente ya hayan dejado abandonado este lugar, total, tampoco es que hayamos visto algun mafioso en esta ciudad.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hmmm. Bueno, tienes razon, supongo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, y ahora que hacemos? Estamos atrapadas aqui asi que quiero al menos no estar atrapada y aburrida.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues pensaba llamarlas para decirles que tardaremos en llegar para la clase. Si este clima no mejora tambien podemos mover la clase para otro dia.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "... ... ...", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "phoneRing"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "... ... ...", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "phoneRing"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "El numero que usted ha marcado, no puede ser localizado. Por favor, intentelo de nuevo, mas tarde.", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ah rayos, no contestan!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y este lugar sigue dandome miedo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun tranquila!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo se ve espeluznante, pero no nos va a pasar nada.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Segura?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si, confia en mi!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo estamos nosotras 2, lo mas que podriamos encontrarnos es a algun animal que viva aqui.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "......", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "O que, piensas que va a venir la mafia por nosotras? Hehe.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "doorSlam" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "AAAAHHHH!!! LA MAFIA, VIENEN POR NOSOTRAS!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "! Nymph?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que haces aqui?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pense que estarian en su casa para su clase.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si lo estabamos.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero a Sammy se le ocurrio comprar botanas para brindarles cuando llegaran.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo queria ser amable!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "No sabia que iba a caer esta lluvia tan fuerte!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, estamos en la misma situacion. Justamente ibamos a su casa cuando cayo la tormenta.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun intento llamarlas pero no atendian el telefono.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Estabamos ocupadas buscando donde refugiarnos. Supongo que el sonido de la lluvia opaco al de mi telefono.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Alto. Hablando de Rakkun, donde esta?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Se asusto. Ya la llamo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "HEY RAKKUN!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "RAKKUN, DONDE ESTAS?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "A-a-aqui estoy.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "No hay n-ninguna m-mafia?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Espera, esas son Nymph y Samita?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, ahora estamos las 4 juntas hasta que termine la tormenta.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que podemos hacer?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh, oh, oh, oh!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Podemos cantar como se supone que ibamos a hacer en casa de Nymph!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey, es buena idea!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto, pasame mi microfono! Pasale tambien el otro microfono a...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Esperen. Quien va a cantar primero?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "No pensamos cantar por separado!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Cantaremos en dueto!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hehe, bien por mi!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Siii! Duo NymSam!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+	
+
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+
+		"music": "badSoundSong",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_12",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "NO MAMES PERDI EL EQUILIBRIO!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+
+		"music": "badSoundSong",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "AAHH!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+
+		"music": "badSoundSong",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": ". . . .", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText",
+		"startSound": "missnote1"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Saben, tengo una mejor idea.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Es evidente que estan desentonadas, asi que que tal si se turnan para cantar?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Asi puedo encontrar el problema de su destono.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nrghh... Bien por mi...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nymph, no tienes problema si vas primero?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nah, esta bien. Pero intentemos esta vez mantener el equilibrio.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Okey, perdon por caerme.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Purpurine/Purpurine_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	}
+
+}

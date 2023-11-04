@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"comsoon",
+			"soon",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "soon_story",
+	"difficulties": "",
+	"weekCharacters": [
+		"comsoon",
+		"",
+		""
+	],
+	"storyName": "More to come...",
+	"weekName": "coming soon",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "sike",
+	"startUnlocked": false
+}

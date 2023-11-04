@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFTMISS",
+			"fps": 24,
+			"name": "Note Left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNMISS",
+			"fps": 24,
+			"name": "Note Down MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPMISS",
+			"fps": 24,
+			"name": "Note Up MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTMISS",
+			"fps": 24,
+			"name": "Note Right MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				120
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "bf dodge"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "bf hurt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rakky_Crash",
+	"position": [
+		10,
+		-10
+	],
+	"healthicon": "rakky",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		64,
+		103
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

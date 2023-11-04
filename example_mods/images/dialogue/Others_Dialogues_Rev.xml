@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Others_Dialogues_Rev.png">
+<SubTexture name="Ugan Bored0000" x="0" y="0" width="384" height="486"/>
+<SubTexture name="Ugan Joke0000" x="0" y="486" width="800" height="654"/>
+<SubTexture name="Chuches Serious0000" x="0" y="1140" width="233" height="645"/>
+</TextureAtlas>

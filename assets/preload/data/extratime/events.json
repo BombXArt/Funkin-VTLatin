@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Smooth cam zoom",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				16250,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rev-corner"
+					]
+				]
+			],
+			[
+				17333.3333333333,
+				[
+					[
+						"Smooth cam zoom",
+						"0.75",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"rev"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Hettorial",
+			"hettoplayer",
+			[
+				255,
+				175,
+				195
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "hetto_story",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"hettorial",
+		"",
+		""
+	],
+	"storyName": "The Basics",
+	"weekName": "Hettorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

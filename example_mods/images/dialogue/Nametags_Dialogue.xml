@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nametags_Dialogue.png">
+<SubTexture name="No_Name0000" x="0" y="0" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Who_Name0000" x="0" y="121" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Rakkun_Name0000" x="0" y="242" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Hetto_Name0000" x="470" y="0" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Cap_Name0000" x="470" y="121" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Nymph_Name0000" x="470" y="242" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Sammy_Name0000" x="0" y="363" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Nimu_Name0000" x="470" y="363" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Emi_Name0000" x="0" y="484" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Star_Name0000" x="470" y="484" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+<SubTexture name="Magma_Name0000" x="0" y="605" width="470" height="121" frameX="0" frameY="0" frameWidth="472" frameHeight="123" />
+</TextureAtlas>

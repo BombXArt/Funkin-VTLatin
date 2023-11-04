@@ -1,0 +1,990 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Djahah, nada mal Emi!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Lo mismo digo, despues de todo eres la profesora!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bien, supongo que ahora-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Njaaajaja, es verdad tienes razon!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y bien, estan disfrutando el karaoke en vivo chat?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Karao-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto nos estas grabando en stream?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText",
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip! Esto sirve para contenido!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y cuanto tiempo llevas grabando exactamente?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Desde poco antes que empezaran a cantar, hehe.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Y como no nos dimos cuenta, wtf?)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Tambien hay gente aqui de sus chats, vinieron porque ustedes dos no estan en stream.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Quieren saludar?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh, bueno. Hola cha-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Holaaaa chaaaat!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Espero que les este gustando el concierto con Emi!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Aun nos quedan varias canciones asi que quedense va?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Heheh, tienes iniciativa, me parece.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/emiText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Huh?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oye Emi, te hiciste un tatuaje?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Tatuaje? De que hablas?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Como que que hablo? Tienes un tatuaje en el cuello!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Asi que usas ese collar para ocultarlo, ehh pillina?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh. E s o.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "No queria que nadie lo viera pero, ya que.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "No es un tatuaje, es mas un -sello-.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sello? De que?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Es una historia algo larga.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sabes que hace poco viaje a Mexico no? Bueno, alla me hicieron ese sello para contener mi ira cuando me llaman por la -palabra con S-.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Wow, no pense que te molestara tanto. Y quien te hizo el sello?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "......", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Un terapeuta, de esos de manejo de la ira. Dijo que era como una especie de recuerdo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh. Esta bien, supongo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eyyy, no digas esooo, que puedes ir baneado!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText",
+		"startSound": "twitchDon" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Jajaja Emi sumisa xd", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_1" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que dijo?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText",
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nada, nada.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "twitchDon",
+		
+		"auto": true,
+		"autoEndTimer": 5
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "Aparte de sumisa tambien sorda, waos", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Spider/Spider_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "TTS_2" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "OYE SI ESCUCHE ESO Y NO SOY SORDA, NI SUMISA!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Emi calma, solo lo estan diciendo por molestarte.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nunca te ha molestado a gran escala que te llamen asi, asi que no deberia de molestarte ahora.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Tambien recuerda que tienes ese sello por algo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Guhh. Tienes razon Rakkun.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo sigamos cantando, bien?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bien.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Perfecto. Sigueme el paso!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spider/Spider_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "emi", 
+		
+		"textbox": "vtl",
+		
+		"text": "Usted manda maestra!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "B4D7E5",
+		
+		"bgImage": "cutscenes/Spider/Spider_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/emiText" 
+	}
+
+}

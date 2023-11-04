@@ -1,0 +1,32 @@
+VT Latin Dev Team
+Bomb XArt::bomb::Creador, Director, Guionista, Artista principal, Compositor, Charter y Coder. Ayuda por favor :(::https://twitter.com/BombXArt::008f39
+RevVT::rev::Supporter del mod::https://twitter.com/reviwerproduct1::1C6E9D
+Lautty!::lauti::Compositor::https://twitter.com/lautio123::a000a0
+Mega::mega::Compositor::https://twitter.com/HeyMega3::800080
+Howsay::howsay::Compositor::https://twitter.com/ImHowsay::1C6E9D
+Ivan.NRG::ivan::Artista::https://twitter.com/_ivan_NRG_::1ec6ff
+TiffTanY::tiff::Artista::https://twitter.com/Tortafrita_2_0?t=i_JnQW_-GRBpKdp2utL_dA&s=09::a000a0
+Miko::miko::Artista::https://www.youtube.com/@MIKO_8461::008f39
+GirlBoySimp::girlboy::Artista::https://twitter.com/GirlBoySimp?t=JFCoA1yu--HgkA2p6zPPeQ&s=09::DF93FF
+VS Rev Dev Team::revtl::Colaboraron en la Collab de VS Rev y VTL::https://twitter.com/reviwerproduct1::1C6E9D
+
+VTubers y Streamers
+RakkunVT::rakky::Personaje principal. Es VTuber, no piensa::https://www.twitch.tv/rakkunvt::cc0605
+Hettozu::hetto::Co Protagonista. Fan de los zombis y los tomates::https://www.twitch.tv/hettozu_::ffcbdb
+Capitan Gato::cap::Oponente de la Week 1. El rey de los Oniichans::https://www.youtube.com/channel/UCGrB-QOL8gg7ouOJ80hO7Sg::955f20
+KoroneVT::koro::Oponente secreto. Añadida al mod por algun motivo::https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q::73400d
+Nymphaaea::nymph::Oponente de la Week 2. VTuber completamente seiso::https://www.twitch.tv/nymphaaea::800080
+Samita Cross::sammy::Oponente de la Week 2. Loli que insulta como hombre en Valorant::https://www.twitch.tv/samitacross::f9e4b7
+NimuVT::nimu::Oponente de la Week 2. La Nimuneta en persona::https://www.twitch.tv/nimuvt::DF93FF
+Rebecca Doodles::rebecca::Oponente secreto. Ya no tiene hambre, yay!::https://www.twitch.tv/rebecca_doodles::1C6E9D
+Emikukis::emi::Oponente de la Week 3. Araña sumisa::https://www.twitch.tv/emikukis::B4D7E5
+Parra::parra::Oponente secreto. Su novia es una cuchara::https://www.twitch.tv/parrabyon::1C6E9D
+StarVTuber::star::Oponente de la Week 4. Mide 1.58::https://www.twitch.tv/starvtuber::9E6865
+PapitasVT::paps::Oponente secreto. Fan #1 de la Inca Kola::https://www.twitch.tv/papitasvt::FCAC3D
+Luisardo::luisardo::Oponente secreto. Esto lo hace por los momos::https://www.twitch.tv/luisardito::464646
+
+Agradecimientos Especiales
+Joaquin_HV::joaquin::Creador original del Voicebank de Capitan Gato::https://www.youtube.com/channel/UCIsFqXlmSe8_0ZUzk3iqgcA::dbbba6
+The Nimu Mod::nimumod::Voicebank de Nimu::https://gamebanana.com/mods/297884::DF93FF
+Super_Hugo::hugo::Custom Dialogue LUA::https://gamebanana.com/mods/384704::800080
+Otoufu-San::oto::Diseño de Korone en Korofunk::https://www.youtube.com/c/0toufusan::ffcbdb

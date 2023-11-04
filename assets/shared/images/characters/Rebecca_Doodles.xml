@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rebecca_Doodles.png">
+<SubTexture name="Idle0000" x="652" y="1410" width="317" height="692" frameX="-148" frameY="-83" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0001" x="652" y="1410" width="317" height="692" frameX="-148" frameY="-83" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0002" x="969" y="1410" width="320" height="692" frameX="-145" frameY="-81" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0003" x="969" y="1410" width="320" height="692" frameX="-145" frameY="-81" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0004" x="2025" y="700" width="322" height="694" frameX="-143" frameY="-77" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0005" x="2025" y="700" width="322" height="694" frameX="-143" frameY="-77" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0006" x="2025" y="0" width="325" height="700" frameX="-142" frameY="-69" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0007" x="2025" y="0" width="325" height="700" frameX="-142" frameY="-69" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0008" x="1697" y="0" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0009" x="1697" y="0" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0010" x="1697" y="0" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0011" x="1697" y="0" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0012" x="1697" y="0" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Idle0013" x="1697" y="0" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0000" x="2745" y="682" width="381" height="680" frameX="-94" frameY="-77" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0001" x="2745" y="682" width="381" height="680" frameX="-94" frameY="-77" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0002" x="1289" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0003" x="1289" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0004" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0005" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0006" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0007" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0008" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0009" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0010" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Left Note0011" x="1660" y="1410" width="371" height="685" frameX="-102" frameY="-72" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0000" x="0" y="2109" width="368" height="618" frameX="-101" frameY="-153" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0001" x="0" y="2109" width="368" height="618" frameX="-101" frameY="-153" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0002" x="2745" y="1362" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0003" x="2745" y="1362" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0004" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0005" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0006" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0007" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0008" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0009" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0010" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Down Note0011" x="2350" y="1366" width="365" height="620" frameX="-102" frameY="-149" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0000" x="0" y="0" width="341" height="706" frameX="-69" frameY="-53" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0001" x="0" y="0" width="341" height="706" frameX="-69" frameY="-53" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0002" x="341" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0003" x="341" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0004" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0005" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0006" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0007" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0008" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0009" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0010" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Up Note0011" x="687" y="0" width="346" height="705" frameX="-75" frameY="-54" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0000" x="2745" y="0" width="402" height="682" frameX="-92" frameY="-80" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0001" x="2745" y="0" width="402" height="682" frameX="-92" frameY="-80" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0002" x="2350" y="0" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0003" x="2350" y="0" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0004" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0005" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0006" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0007" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0008" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0009" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0010" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Right Note0011" x="2350" y="683" width="395" height="683" frameX="-94" frameY="-79" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0000" x="664" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0001" x="664" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0002" x="990" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0003" x="990" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0004" x="0" y="1410" width="326" height="699" frameX="-141" frameY="-70" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0005" x="0" y="1410" width="326" height="699" frameX="-141" frameY="-70" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0006" x="326" y="1410" width="326" height="699" frameX="-141" frameY="-70" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0007" x="326" y="1410" width="326" height="699" frameX="-141" frameY="-70" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0008" x="326" y="1410" width="326" height="699" frameX="-141" frameY="-70" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0009" x="326" y="1410" width="326" height="699" frameX="-141" frameY="-70" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0010" x="664" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0011" x="664" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0012" x="990" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0013" x="990" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0014" x="1316" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0015" x="1316" y="706" width="326" height="702" frameX="-141" frameY="-67" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0016" x="1697" y="701" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0017" x="1697" y="701" width="328" height="701" frameX="-139" frameY="-68" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0018" x="1033" y="0" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0019" x="1033" y="0" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0020" x="1365" y="0" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0021" x="1365" y="0" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0022" x="0" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0023" x="0" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0024" x="1365" y="0" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0025" x="1365" y="0" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0026" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0027" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0028" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0029" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0030" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0031" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0032" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0033" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0034" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0035" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0036" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0037" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0038" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0039" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0040" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0041" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0042" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0043" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0044" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0045" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0046" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0047" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0048" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0049" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0050" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0051" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0052" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0053" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0054" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0055" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0056" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0057" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0058" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0059" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0060" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0061" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0062" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0063" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0064" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0065" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0066" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0067" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0068" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0069" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0070" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0071" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0072" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0073" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0074" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0075" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0076" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0077" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0078" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0079" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0080" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0081" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0082" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0083" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0084" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0085" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0086" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0087" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0088" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0090" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0091" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0092" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0093" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0094" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0095" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0096" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0097" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0098" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0099" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0100" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0101" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0102" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0103" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0104" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0105" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0106" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0107" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0108" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0109" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0110" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0111" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0112" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0113" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0114" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0115" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0116" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0117" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0118" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0119" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0120" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0121" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0122" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0123" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0124" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0125" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0126" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0127" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0128" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0129" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0130" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0131" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0132" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0133" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0134" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0135" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0136" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0137" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0138" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+<SubTexture name="Amazing0139" x="332" y="706" width="332" height="704" frameX="-135" frameY="-65" frameWidth="574" frameHeight="796"/>
+</TextureAtlas>

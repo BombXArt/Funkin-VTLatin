@@ -1,0 +1,4 @@
+Receives a donation that blocks your view
+if value1 = 100 it gives you 100 bits
+if value1 = 1000 it gives you 1000 bits
+but that's only stetic xd

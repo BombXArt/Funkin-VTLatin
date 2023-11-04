@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="limoStreet.png">
+	<SubTexture name="limo Street0000" x="0" y="0" width="1968" height="1313"/>
+	<SubTexture name="limo Street0001" x="0" y="0" width="1968" height="1313"/>
+	<SubTexture name="limo Street0002" x="1968" y="0" width="1968" height="1313"/>
+	<SubTexture name="limo Street0003" x="1968" y="0" width="1968" height="1313"/>
+	<SubTexture name="hiSpeed limo Street0000" x="0" y="1313" width="1968" height="1313"/>
+	<SubTexture name="hiSpeed limo Street0001" x="0" y="1313" width="1968" height="1313"/>
+	<SubTexture name="hiSpeed limo Street0002" x="1968" y="1313" width="1968" height="1313"/>
+	<SubTexture name="hiSpeed limo Street0003" x="1968" y="1313" width="1968" height="1313"/>
+</TextureAtlas>

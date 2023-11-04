@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down Note"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNMISS",
+			"loop": false,
+			"name": "Down MISS Note"
+		},
+		{
+			"offsets": [
+				-34,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up Note"
+		},
+		{
+			"offsets": [
+				-34,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPMISS",
+			"loop": false,
+			"name": "Up MISS Note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Hey_Emi"
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right Note"
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTMISS",
+			"loop": false,
+			"name": "Right MISS Note"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left Note"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTMISS",
+			"loop": false,
+			"name": "Left MISS Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Emikukis_Sumi",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "emi",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		215,
+		229
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

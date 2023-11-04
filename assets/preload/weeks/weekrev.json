@@ -1,0 +1,49 @@
+{
+	"storyName": "Rev Is Here",
+	"difficulties": "Easy, Normal, Hard, Otaku",
+	"hideFreeplay": false,
+	"weekBackground": "rev_story",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"RevMatch",
+			"song-rev",
+			[
+				26,
+				27,
+				128
+			]
+		],
+		[
+			"ExtraTime",
+			"song-rev",
+			[
+				26,
+				27,
+				128
+			]
+		],
+		[
+			"Cornered",
+			"song-rev",
+			[
+				26,
+				27,
+				128
+			]
+		]
+	],
+	"weekCharacters": [
+		"rev",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "rev"
+}

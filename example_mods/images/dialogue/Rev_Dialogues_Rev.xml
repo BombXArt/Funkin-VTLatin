@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rev_Dialogues_Rev.png">
+<SubTexture name="Rev Cornered0000" x="0" y="0" width="266" height="814"/>
+<SubTexture name="Rev Wtv0000" x="266" y="0" width="266" height="804"/>
+<SubTexture name="Rev Upset0000" x="532" y="0" width="266" height="822"/>
+<SubTexture name="Rev Angry0000" x="798" y="0" width="266" height="822"/>
+<SubTexture name="Rev Serious0000" x="0" y="822" width="266" height="822"/>
+<SubTexture name="Rev Surprise0000" x="266" y="822" width="266" height="822"/>
+</TextureAtlas>

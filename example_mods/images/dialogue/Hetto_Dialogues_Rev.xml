@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hetto_Dialogues_Rev.png">
+<SubTexture name="Hetto Scared0000" x="0" y="0" width="357" height="645"/>
+<SubTexture name="Hetto Worried0000" x="357" y="0" width="360" height="645"/>
+<SubTexture name="Hetto Upset0000" x="0" y="645" width="395" height="646"/>
+<SubTexture name="Hetto Angry0000" x="395" y="645" width="357" height="643"/>
+<SubTexture name="Hetto Serious0000" x="0" y="1291" width="357" height="643"/>
+</TextureAtlas>

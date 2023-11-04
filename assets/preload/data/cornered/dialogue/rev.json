@@ -1,0 +1,80 @@
+{
+	"name": "rev",
+	"image": "dialogue/Rev_Dialogues_Rev",
+	"position": {
+		60, 
+		-10
+	},
+	"animations": {
+		{
+			"name": "cornered",
+			"anim": "Rev Cornered",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "wtv",
+			"anim": "Rev Wtv",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "upset",
+			"anim": "Rev Upset",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "angry",
+			"anim": "Rev Angry",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "surprise",
+			"anim": "Rev Surprise",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "serious",
+			"anim": "Rev Serious",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+	},
+	"scale": 1,
+	"no_antialiasing": false,
+	"alpha": 1,
+	"inactive_alpha": 0
+}

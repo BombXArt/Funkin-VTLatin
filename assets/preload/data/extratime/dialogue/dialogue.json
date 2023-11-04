@@ -1,0 +1,443 @@
+{
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ya, contenta?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "happy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip, fue divertido!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "normal", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hubiera querido cantar un poco mas pero tenemos algo de prisa.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh no no. Por favor iros, quiero mantener un perfil bajo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Perfil bajo? Por que?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Unngh, solo sois como un grano en el culo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "hetto", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey amigo, ya cantaron, cumplio con tu capricho, y querias que nos fueramos, no es necesario ser tan grosero.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "upset", 
+		
+		"textbox": "vtl",
+		
+		"text": "YA LO SE, ES TU AMIGA LA QUE QUIERE SEGUIR!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ummm...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText",
+		"startSound": "phoneVibin" 
+	},
+	
+
+	{	
+		"character": "hetto", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hm?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "serious", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "hetto", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey Rakkun, Emi acaba de decir que tardara un poco en llegar.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "hetto", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "Supongo que tenemos algo mas de tiempo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "rakky", 
+		"anim": "normal", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ehh, genial!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "worried", 
+		
+		"textbox": "vtl",
+		
+		"text": "D-digo, no genial, pero asi tenemos mas tiempo para cantar un poco mas!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Iros a la mierda, no quiero problemas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero vosotras bien que insistis, si tanto quereis, os dare lo que quereis.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+	
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero tened cuidado con lo que deseais.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "wtv", 
+		
+		"textbox": "vtl",
+		
+		"text": "No voy a dejartelo facil.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/revText" 
+	},
+	
+
+	{	
+		"character": "rakky", 
+		"anim": "happy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sabes, yo doy clases de canto, asi que no deberia ser complicado para mi.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "rev", 
+		"anim": "angry", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, no digas que no te lo adverti.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "1A1B80",
+		
+		"bgImage": "cutscenes/Rev/Rev_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/revText" 
+	}
+
+}

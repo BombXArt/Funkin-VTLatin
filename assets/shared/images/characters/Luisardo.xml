@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Luisardo.png">
+<SubTexture name="Down Note0000" x="0" y="0" width="412" height="639" frameX="-67" frameY="-133" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0001" x="0" y="0" width="412" height="639" frameX="-67" frameY="-133" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0002" x="412" y="0" width="412" height="642" frameX="-64" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0003" x="412" y="0" width="412" height="642" frameX="-64" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0004" x="824" y="0" width="414" height="640" frameX="-60" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0005" x="824" y="0" width="414" height="640" frameX="-60" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0006" x="824" y="0" width="414" height="640" frameX="-60" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0007" x="824" y="0" width="414" height="640" frameX="-60" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0008" x="824" y="0" width="414" height="640" frameX="-60" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0009" x="824" y="0" width="414" height="640" frameX="-60" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0000" x="1238" y="0" width="420" height="626" frameX="-42" frameY="-135" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0001" x="1238" y="0" width="420" height="626" frameX="-42" frameY="-135" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0002" x="1658" y="0" width="416" height="630" frameX="-44" frameY="-131" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0003" x="1658" y="0" width="416" height="630" frameX="-44" frameY="-131" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0004" x="0" y="642" width="413" height="634" frameX="-46" frameY="-127" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0005" x="0" y="642" width="413" height="634" frameX="-46" frameY="-127" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0006" x="413" y="642" width="410" height="638" frameX="-48" frameY="-123" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0007" x="413" y="642" width="410" height="638" frameX="-48" frameY="-123" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0008" x="823" y="642" width="406" height="642" frameX="-50" frameY="-119" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0009" x="823" y="642" width="406" height="642" frameX="-50" frameY="-119" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0010" x="823" y="642" width="406" height="642" frameX="-50" frameY="-119" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0011" x="823" y="642" width="406" height="642" frameX="-50" frameY="-119" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0012" x="823" y="642" width="406" height="642" frameX="-50" frameY="-119" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0013" x="823" y="642" width="406" height="642" frameX="-50" frameY="-119" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0000" x="1229" y="642" width="416" height="630" frameX="-22" frameY="-128" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0001" x="1229" y="642" width="416" height="630" frameX="-22" frameY="-128" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0002" x="1645" y="642" width="416" height="633" frameX="-28" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0003" x="1645" y="642" width="416" height="633" frameX="-28" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0004" x="0" y="1284" width="415" height="634" frameX="-31" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0005" x="0" y="1284" width="415" height="634" frameX="-31" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0006" x="0" y="1284" width="415" height="634" frameX="-31" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0007" x="0" y="1284" width="415" height="634" frameX="-31" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0008" x="0" y="1284" width="415" height="634" frameX="-31" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0009" x="0" y="1284" width="415" height="634" frameX="-31" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0000" x="415" y="1284" width="396" height="654" frameX="-75" frameY="-114" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0001" x="415" y="1284" width="396" height="654" frameX="-75" frameY="-114" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0002" x="811" y="1284" width="394" height="653" frameX="-75" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0003" x="811" y="1284" width="394" height="653" frameX="-75" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0004" x="1205" y="1284" width="392" height="655" frameX="-79" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0005" x="1205" y="1284" width="392" height="655" frameX="-79" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0006" x="1205" y="1284" width="392" height="655" frameX="-79" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0007" x="1205" y="1284" width="392" height="655" frameX="-79" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0008" x="1205" y="1284" width="392" height="655" frameX="-79" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0009" x="1205" y="1284" width="392" height="655" frameX="-79" frameY="-117" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0000" x="1597" y="1284" width="425" height="658" frameX="-34" frameY="-100" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0001" x="1597" y="1284" width="425" height="658" frameX="-34" frameY="-100" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0002" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0003" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0004" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0005" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0006" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0007" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0008" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0009" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0010" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0011" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0012" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0013" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0014" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0015" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0016" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0017" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0018" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0019" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0020" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0021" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0022" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0023" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0024" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0025" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0026" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0027" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0028" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0029" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0030" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0031" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0032" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0033" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0034" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0035" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0036" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0037" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0038" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0039" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0040" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0041" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0042" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0043" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0044" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0045" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0046" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0047" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0048" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0049" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0050" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0051" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0052" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0053" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0054" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0055" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0056" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0057" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0058" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0059" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0060" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0061" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0062" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0063" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0064" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0065" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0066" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0067" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0068" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0069" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0070" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0071" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0072" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0073" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0074" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0075" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0076" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0077" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0078" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0079" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0080" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0081" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0082" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0083" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0084" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0085" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0086" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0087" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0088" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0089" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0090" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0091" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0092" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0093" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0094" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0095" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0096" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0097" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0098" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Sech0099" x="0" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0000" x="427" y="1942" width="432" height="657" frameX="-21" frameY="-101" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0001" x="427" y="1942" width="432" height="657" frameX="-21" frameY="-101" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0002" x="859" y="1942" width="429" height="648" frameX="-30" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0003" x="859" y="1942" width="429" height="648" frameX="-30" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0004" x="1288" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0005" x="1288" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0006" x="1288" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0007" x="1288" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0008" x="1288" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0009" x="1288" y="1942" width="427" height="648" frameX="-34" frameY="-110" frameWidth="574" frameHeight="796" />
+</TextureAtlas>

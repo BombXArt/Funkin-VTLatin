@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				80,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left Note"
+		},
+		{
+			"offsets": [
+				-10,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down Note"
+		},
+		{
+			"offsets": [
+				-10,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up Note"
+		},
+		{
+			"offsets": [
+				-74,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right Note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "amazing",
+			"loop": false,
+			"name": "Amazing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rebecca_Doodles",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "rebecca",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		110,
+		157
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

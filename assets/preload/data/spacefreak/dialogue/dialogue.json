@@ -1,0 +1,2000 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hmmm...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Creo que ya encontre el problema!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "? En serio?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sip!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Tuve que escucharlas a ambas cantando por separado para hallar esta solucion, y creo que es logica.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Las 2 simplemente manejan estilos diferentes, y eso es lo que hace que desentonen tanto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eh?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Osea, como?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText",
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nymph, tu estilo es bastante calmado, y diria que incluso un poco sugerente.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ehh, bueno, creo que tiene sentido por hacer ASMR +18, hehe.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Samita, tu por el otro lado tienes un estilo muy energico y algo infantil.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y hay algun problema con eso?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nonono, para nada.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Esta bien que tengan su propio estilo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Perdon, sigo sin entender cual es tu punto.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bien, lo explicare asi.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Como ya dije, las 2 manejan estilos diferentes.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero si encuentran como combinar ambos estilos, podrian aparte de terminar el problema de su desentono, generar un nuevo estilo que las caracterice!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/nymphText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "De veras crees eso?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si! Despues de todo, todos tenemos algo que nos caracteriza!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun tiene razon. Separadas somos buenas, pero juntas podemos ser mucho mejores!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si, despues de todo, por eso decidimos en un principio cantar en dueto!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solamente tenemos que ser creativas al cantar-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "-Y nada nos podra salir mal!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ven? Ya lo tienen!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo deben perfeccionarlo y estaran listas!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ayyy siii!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bien, preparense todos porque viene un nuevo duo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Duo NymSam!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Duo NymSam!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue", 
+		"startSound": "Lights_Shut_off" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText",
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Q-que paso?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Debio irse la luz.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Normal supongo, con la tormenta que hay afuera.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y ahora que?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Solo mantengamonos juntas, okey?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "De acuerdo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText",
+		"startSound": "glassBreak"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que fue eso?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Mantengamos la calma si?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "S-si...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "freakLaughs",
+
+		"auto": true,
+		"autoEndTimer": 60
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nymph", 
+		
+		"textbox": "vtl",
+		
+		"text": "!! UNA RISA, LA OYERON?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "800080",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nymphText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "sammy", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que crees que haya sido, Hetto?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "f9e4b7",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/sammyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eehh... Eeeehhhh...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Miren, yo tambien tengo miedo, pero tenemos que mantenernos calmadas.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Estando juntas no nos puede pasar nada m-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "AAAAHHHH!!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "Rakkidnap"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "!! RAKKUN!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Perdon por meternos a su mansion señor mafioso solo nos refugiabamos de la lluvia no volvera a pasar por favor dejenos irnos-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "who", 
+		
+		"textbox": "vtl",
+		
+		"text": "....", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "who", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nrghhh, creia haberlo encontrado!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "? Encontrar a quien?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "who", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rayos, rayos, rayos! Solo perdi el tiempo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que demo-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Okey, quien eres?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "!!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_12",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText", 
+		"startSound": "thunder_2",
+
+		"auto": true,
+		"autoEndTimer": 20
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Espera. Nimu?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que haces aqui?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "No es obvio? Lo estoy buscando!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "(...Realmente eso no responde mi pregunta)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bien, pero que es lo que estas buscando?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "A el! Al boludito de pelo azul que me ha dado tantos problemas!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Quien, Parra?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "No! A Boyfriend, el enano de la gorra y el microfono!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Crei haberlo encontrado cuando te oi cantando, pero solo perdi mi tiempo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Gorra? Microfono? Hablas del joven de los rumores?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_13",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "ENTONCES LO CONOCES?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText", 
+		"startSound": "thunder_1" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "LLEVAME CON EL!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, no lo conozco directamente. El solo es parte de un rumor de las calles.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": ". . . . . .", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_14",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nnrrrggghhh...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Nunca la habia visto asi...)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "NRGAAHH! Ahora como lo encuentro?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "......", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Espera.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "! Ya se!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Vos me ayudaras a encontrarlo, pequeña ardillita! Estoy segura que con tu voz podras atraerlo.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Canta conmigo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hey, soy un mapache, no una ardilla!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ademas, como sabes si eso al menos va a funcionar?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_15",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oohh, funcionara, vos solo seguime el ritmo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_16",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y que si me niego?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_16",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_16",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_16",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText", 
+		"startSound": "scareSound_1" 
+	},
+	
+
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_17",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText", 
+		"startSound": "scareSound_2" 
+	},
+
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Spacefreak/Spacefreak_17",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	}
+
+}

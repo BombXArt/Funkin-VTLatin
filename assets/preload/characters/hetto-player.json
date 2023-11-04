@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				60,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				1,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-16,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				60,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				1,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-16,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/HETTOZU",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hettoplayer",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		175,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

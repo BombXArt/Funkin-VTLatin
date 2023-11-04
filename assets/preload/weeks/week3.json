@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Kukis",
+			"emi",
+			[
+				180,
+				215,
+				229
+			]
+		],
+		[
+			"Spider-Web",
+			"emi",
+			[
+				180,
+				215,
+				229
+			]
+		],
+		[
+			"Submission",
+			"emidomi",
+			[
+				150,
+				193,
+				210
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "emi_story",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"emi",
+		"",
+		""
+	],
+	"storyName": "Emikukis",
+	"weekName": "Emikukis",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week2",
+	"startUnlocked": true
+}
