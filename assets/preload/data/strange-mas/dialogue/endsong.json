@@ -1,0 +1,854 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ahh, fue tan lindo revivir esos viejos tiempos.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Strange/Strange_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero ya no puedo distraerme mas. Ya he pospuesto demasiado meterte un tiro entre ceja y ceja, Magma.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Bell/Bell_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText",
+		"startSound": "starGun",
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "En verdad nadie va a, no se... interferir para que no me maten?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Bell/Bell_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Pues yo ya lo intente, de nada.)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Bell/Bell_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Okey Star esto ya fue demasiado. No puedes matar a Magma!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Bell/Bell_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si! Digo, es tu amigo no?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Bell/Bell_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Sisisi, pero al final hay que hacer justicia por mi.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Bell/Bell_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que tipo de justicia es coser a tiros a un Santa de centro comercial?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Bell/Bell_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "La mia si no lo has notado!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Strange/Trapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ultimas palabras, volcan andante!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Strange/Trapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Le dejo a Cap la custodia legal de mi monito George!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Strange/Trapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto hay que hacer algo rapido!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Strange/Trapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y que quieres que haga?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Strange/Trapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pues que se yo, tienes otros poderes tambien, no?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Strange/Trapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oohh, no sabia que estabas aqui pequeña ardillita, tiempo sin verte!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "QUE CARA-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Strange/Trapper_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText",
+		
+		"auto": true,
+		"autoEndTimer": 8
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Strange/Trapper_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "gunShot",
+		
+		"auto": true,
+		"autoEndTimer": 14
+	},
+
+
+	{	
+		"character": "nametags",
+		"anim": "nimu",
+		
+		"textbox": "vtl",
+		
+		"text": "Oh, no tenia el seguro. Este centro comercial tiene muy poca seguridad.",
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "..........", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Strange/Trapper_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uuhh, Magma, estas bien?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Strange/Trapper_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Si si, estoy bien. Sabes que desearia ahora?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Strange/Trapper_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que Santa usara ropa cafe en vez de roja.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Strange/Trapper_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eehh... H-hola, Nimu?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Strange/Trapper_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh si, esto podria servirme tambien!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oye el arma es rentada, tengo que devolverla a la tienda!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Strange/Trapper_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "(...Me ignoro ._.)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Strange/Trapper_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Que sorpresa encontrarte aqui hoy, que tal todo?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eeeehhhh.... Bien? I-Intentando evitar que maten a Magma (?)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh si si, situacion tipica, me paso una vez. Como sea, ya que estas aqui, te contare algo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Habia venido hoy a comprar un monton de cosas. Todo lo que llevo en esta bolsa son materiales para crear trampas para encontrar a Boyfriend.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun, de que esta hablando?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eres amiga de la ardillita? Permiteme explicarte con gusto!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Llevo mucho tiempo intentando encontrar a Boyfriend, tengo revanchas pendientes contra el por varias veces que me ha vencido.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Ese nombre... No era algo de lo que habia hablado ese vagabundo del callejon?)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y hace un tiempo intente usar a la ardillita para atraerlo pero no funciono. Aunque ahora que la vi aqui, tuve una idea!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Tengo un mal presentimiento...)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Voy a intentar ese plan otra vez, pero ahora usandola tanto a ella como a toda esta multitud. Asi, seguro que finalmente vendra!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Okey, primero, soy un mapache, no una maldita ardilla.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "rakkun", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y segundo, no voy a formar parte de tus locuras, y mucho menos despues de la ultima vez!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oh, querida ardillita...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "No era una peticion.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Strange/Trapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "Lights_Shut_off",
+		
+		"auto": true,
+		"autoEndTimer": 14
+	}
+
+}

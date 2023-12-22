@@ -125,6 +125,31 @@ if songName == 'Spacefreak EX' then
     setObjectCamera('CreditsStart', 'other')
     addLuaSprite('CreditsStart', true)  
 end
+if songName == 'Re-Bell-Ge' then
+    makeLuaSprite('CreditsStart','songName/ReBellGe', -10, 200) 
+    scaleObject('CreditsStart', 0.5, 0.5)
+    setObjectCamera('CreditsStart', 'other')
+    addLuaSprite('CreditsStart', true)  
+end
+if songName == 'Strange-Mas' then
+    makeLuaSprite('CreditsStart','songName/StrangeMas', -10, 200) 
+    scaleObject('CreditsStart', 0.5, 0.5)
+    setObjectCamera('CreditsStart', 'other')
+    addLuaSprite('CreditsStart', true)  
+end
+if songName == 'TrapperKrampus' then
+    makeLuaSprite('CreditsStart','songName/Krampus', -10, 200) 
+    scaleObject('CreditsStart', 0.5, 0.5)
+    setObjectCamera('CreditsStart', 'other')
+    addLuaSprite('CreditsStart', true)  
+end
+if songName == 'Estoy Cansado Jefe' then
+    makeLuaSprite('CreditsStart','songName/Cansao', -10, 200) 
+    scaleObject('CreditsStart', 0.5, 0.5)
+    setObjectCamera('CreditsStart', 'other')
+    addLuaSprite('CreditsStart', true)  
+end
+
 
 function onSongStart()
     doTweenX('Credit_1','CreditsStart', -800, 3, 'smoothStepOut')

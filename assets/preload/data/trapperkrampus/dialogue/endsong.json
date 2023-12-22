@@ -1,0 +1,1136 @@
+{
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Okey esto escalo demasiado, tengo que hacer algo!)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+
+		"music": "krampusInst",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "(Hm? Un apagador?)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+
+		"music": "krampusInst",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_1",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText"
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "(...Bueno, momentos desesperados requieren medidas desesperadas!)", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+
+		"music": "krampusInst",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_2",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		"startSound": "Lights_Shut_off",
+		
+		"auto": true,
+		"autoEndTimer": 14
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eh- Quien apago las luces?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y ahora que esta pasan-", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "AH, ALGO AGARRO MI MANO!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Rakkun fui yo! Vamonos!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno ya se divirtieron pero tenemos prisa, ahi nos vidrios!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Hettorial/Intro_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "N-No se vayan! Mi plan!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+
+		"music": "snowRun",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hetto puedes dejar de jalarme tan fuerte el brazo?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+
+		"music": "snowRun",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Perdon pero tenemos que darnos prisa y salir!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+
+		"music": "snowRun",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Y de que nos va a servir salir?! ", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+
+		"music": "snowRun",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Por lo menos, para que podamos ver algo!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+
+		"music": "snowRun",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ya casi llegamos!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+
+		"music": "snowRun",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_3",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_4",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		
+		"auto": true,
+		"autoEndTimer": 14
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "*jadeo cansado*", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+
+	{	
+		"character": "nametags",
+		"anim": "rakky",
+		
+		"textbox": "vtl",
+		
+		"text": "Y por que tu estas cansada si flotas?!",
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Usar mis poderes consume energia sabes? Por eso no los uso tanto!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_5",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		
+		"auto": true,
+		"autoEndTimer": 14
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Fu, eso estuvo cerca!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Amigo que le estaba pasando a Nimu?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ni idea, es la primera vez que la veo asi.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno yo estoy molesta porque se llevo mi pistola, era rentada y ahora tengo que pagar la reposicion!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno yo estoy feliz porque se llevo tu arma!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bah qué mas da, aun puedo acabar contigo con mis propias manos!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Por que sigues tan empeñada en vengarte de mi?! Sobreviviste a esa vez de la limo asi que por que yo si tengo que RIPpear?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Yo sigo confundida respecto a algo. El culpable de lo de la limo no habia sido Cap?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nah no fue el, el me explico lo que sucedio y fue Magma.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_6",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eeehhhjejeh, taaal veeez le deje la culpa de todo a Magma para que no me mataras.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "QUE HICISTE QUE?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Por que no me parece raro ya?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "Magma perdoname por todo lo de hoy, ya se a quien debi apuntarle en la silla!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Oigan pero Magma tambien habia roto los pedales de la limo junto a Cap no? Segun lo que ustedes dos me explicaron cuando tuve que ayudarlos.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, si, pero todo eso fue un accidente!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_7",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText" 
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "ASI QUE ENTRE LOS DOS CASI ME MATAN, EH?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "cap", 
+		
+		"textbox": "vtl",
+		
+		"text": "Bueno, ya te hemos dicho que solo fue un accidente, ademas sobreviviste asi que no tienes por que- MAGMA CORRE!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "955f20",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_8",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/capText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "star", 
+		
+		"textbox": "vtl",
+		
+		"text": "SIEMPRE ME METEN EN ESTOS PROBLEMAS USTEDES DOS, VENGAN AQUI!!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "9E6865",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/starText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "magma", 
+		
+		"textbox": "vtl",
+		
+		"text": "Hermano en que momento Star se volvio una madre regañona?!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "FEC261",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/magmaText"
+	},
+	
+
+	{	
+		"character": "nametags", 
+		"anim": "empty", 
+		
+		"textbox": "vtl",
+		
+		"text": "....", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue",
+		
+		"auto": true,
+		"autoEndTimer": 8
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Deberiamos ayudarlos?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText" 
+	},
+
+
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Star no mata ni una mosca, van a estar bien. Ademas, necesitamos volver y arreglar todo el desastre que hizo Nimu.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText" 
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ehh, bien.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Ah? T-Todo esta, normal?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Pero hasta hace unos minutos todo estaba oscuro y destruido. Que sucedio?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Fue la magia navideña?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "No seas tonta!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText",
+		
+		"auto": true,
+		"autoEndTimer": 8
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "La magia navideña no puede trabajar tan rapido!", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_10",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Meehh...", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "Uuuhhh... E-Estas bien?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "nimu", 
+		
+		"textbox": "vtl",
+		
+		"text": "Nop. Si no aparecio Boyfriend, no tiene sentido dejar todo hecho un desastre. Voy a ver si me como una hamburguesa.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "DF93FF",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_11",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/nimuText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "hetto", 
+		
+		"textbox": "vtl",
+		
+		"text": "Eso fue, ummm... Anticlimatico?", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "ffcbdb",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/hettoText"
+	},
+
+	
+	{	
+		"character": "nametags", 
+		"anim": "rakky", 
+		
+		"textbox": "vtl",
+		
+		"text": "...Tal vez esta es la navidad mas rara que he tenido.", 
+		"font": "",
+		
+		"textSize": 40,
+		"textColor": "cc0605",
+		
+		"bgImage": "cutscenes/Trapper/PostTrapper_9",
+		"bgPos": {-330, -180},
+		"bgScale": 0.7,
+		
+		"talkSound": "dialogue/rakkyText"
+	}
+
+}

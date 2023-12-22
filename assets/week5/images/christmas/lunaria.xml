@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lunaria.png">
+<SubTexture name="LunaBop0000" x="0" y="0" width="352" height="776" frameX="-42" frameY="-23" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0001" x="0" y="0" width="352" height="776" frameX="-42" frameY="-23" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0002" x="352" y="0" width="349" height="780" frameX="-44" frameY="-17" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0003" x="352" y="0" width="349" height="780" frameX="-44" frameY="-17" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0004" x="0" y="780" width="346" height="780" frameX="-44" frameY="-15" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0005" x="0" y="780" width="346" height="780" frameX="-44" frameY="-15" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0006" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0007" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0008" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0009" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0010" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0011" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0012" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+<SubTexture name="LunaBop0013" x="346" y="780" width="343" height="785" frameX="-43" frameY="-8" frameWidth="408" frameHeight="808" />
+</TextureAtlas>

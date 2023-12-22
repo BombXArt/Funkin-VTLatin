@@ -13,7 +13,7 @@
 	"songs": [
 		[
 			"RevMatch",
-			"song-rev",
+			"rev",
 			[
 				26,
 				27,
@@ -22,7 +22,7 @@
 		],
 		[
 			"ExtraTime",
-			"song-rev",
+			"rev",
 			[
 				26,
 				27,
@@ -31,7 +31,7 @@
 		],
 		[
 			"Cornered",
-			"song-rev",
+			"rev",
 			[
 				26,
 				27,

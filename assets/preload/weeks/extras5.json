@@ -1,0 +1,31 @@
+{
+	"storyName": "Extras5",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week5",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Estoy Cansado Jefe",
+			"song-bomb-lauti",
+			[
+				78,
+				207,
+				56
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Extras5"
+}

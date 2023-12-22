@@ -3,6 +3,7 @@ rakky-scared
 rakky-car
 rakky-crash
 rakky-sad
+rakky-xmas-scared
 rakkyopponent
 rakky-speaker
 hetto-speaker
@@ -11,6 +12,7 @@ hetto-speaker-old
 hetto-scared
 hetto-limo-duck
 hetto-limo-fest
+hetto-speaker-xmas-scared
 hetto-player
 hetto-player-old
 hettopponent
@@ -26,6 +28,7 @@ nymph
 sammy
 nimu
 nimu-evil
+nimu-xmas
 rebecca
 rebecca-dark
 emi
@@ -33,12 +36,17 @@ emi-player
 emidomi
 parra
 rev
+rev-second
 rev-corner
 star
 star-car
 star-crash
 papitas
 luisardo
+capstar-xmas
+capstar-xmas-both
+bomb
+lauti
 nothin
 bf
 bf-dead

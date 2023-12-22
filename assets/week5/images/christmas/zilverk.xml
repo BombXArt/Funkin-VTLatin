@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zilverk.png">
+<SubTexture name="ZilBop0000" x="0" y="0" width="287" height="529" frameX="-14" frameY="-31" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0001" x="0" y="0" width="287" height="529" frameX="-14" frameY="-31" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0002" x="287" y="0" width="285" height="531" frameX="-15" frameY="-27" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0003" x="287" y="0" width="285" height="531" frameX="-15" frameY="-27" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0004" x="0" y="531" width="283" height="534" frameX="-16" frameY="-22" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0005" x="0" y="531" width="283" height="534" frameX="-16" frameY="-22" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0006" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0007" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0008" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0009" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0010" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0011" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0012" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+<SubTexture name="ZilBop0013" x="283" y="531" width="281" height="537" frameX="-17" frameY="-17" frameWidth="321" frameHeight="577" />
+</TextureAtlas>

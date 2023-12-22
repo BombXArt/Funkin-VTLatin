@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"indices": [],
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				60,
-				-10
+				100,
+				20
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Left Note",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Note"
 		},
 		{
+			"offsets": [
+				-30,
+				30
+			],
 			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Note"
+		},
+		{
 			"offsets": [
 				40,
-				-50
+				20
 			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down Note",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-20,
-				-10
-			],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Up Note",
-			"indices": []
+			"indices": [],
+			"name": "Up Note"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-60,
-				-10
+				-40,
+				10
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Right Note",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Note"
 		}
 	],
 	"no_antialiasing": false,

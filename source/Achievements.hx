@@ -13,7 +13,7 @@ class Achievements {
 	public static var achievementsStuff:Array<Dynamic> = [ //Name, Description, Achievement save tag, Hidden achievement
 		["Freaky on a Friday Night",	"Play on a Friday... Night.",						'friday_night_play',	 true],
 		["Let The Lessons Begin!",		"Beat Week 1 on Hard with no Misses.",				'week1_nomiss',			false],
-		["Scooby Doo Where Are You?",	"Beat Week 2 on Hard with no Misses.",				'week2_nomiss',			false],
+		["Rakky Doo Where Are You?",	"Beat Week 2 on Hard with no Misses.",				'week2_nomiss',			false],
 		["Anger Management",			"Beat Week 3 on Hard with no Misses.",				'week3_nomiss',			false],
 		["High Speed Minion",			"Beat Week 4 on Hard with no Misses.",				'week4_nomiss',			false],
 		["Missless Christmas",			"Beat Week 5 on Hard with no Misses.",				'week5_nomiss',			false],

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="parsirken.png">
+<SubTexture name="Parra Siri Kendo Bop0000" x="0" y="0" width="766" height="765" frameX="-19" frameY="-31" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0001" x="0" y="0" width="766" height="765" frameX="-19" frameY="-31" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0002" x="766" y="0" width="763" height="767" frameX="-21" frameY="-27" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0003" x="766" y="0" width="763" height="767" frameX="-21" frameY="-27" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0004" x="0" y="767" width="761" height="768" frameX="-23" frameY="-24" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0005" x="0" y="767" width="761" height="768" frameX="-23" frameY="-24" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0006" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0007" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0008" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0009" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0010" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0011" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0012" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+<SubTexture name="Parra Siri Kendo Bop0013" x="761" y="767" width="757" height="769" frameX="-25" frameY="-20" frameWidth="800" frameHeight="799" />
+</TextureAtlas>

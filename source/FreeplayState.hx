@@ -106,7 +106,7 @@ class FreeplayState extends MusicBeatState
 		add(bg);
 		bg.screenCenter();
 
-		var splash:FlxSprite = new FlxSprite(0,0).loadGraphic(Paths.image('menuselection/weekSplash'+FlxG.random.int(1,5)));
+		var splash:FlxSprite = new FlxSprite(0,0).loadGraphic(Paths.image('menuselection/weekSplash'+FlxG.random.int(1,6)));
 		splash.scrollFactor.set(0, 0);
 		splash.setGraphicSize(Std.int(splash.width * 1));
 		splash.antialiasing = ClientPrefs.globalAntialiasing;

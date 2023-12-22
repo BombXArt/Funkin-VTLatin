@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Re-Bell-Ge",
+			"song-capstar",
+			[
+				218,
+				154,
+				94
+			]
+		],
+		[
+			"Strange-Mas",
+			"song-capstar",
+			[
+				158,
+				104,
+				101
+			]
+		],
+		[
+			"TrapperKrampus",
+			"song-nimu",
+			[
+				223,
+				147,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "nimu_story",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"nimu",
+		"",
+		""
+	],
+	"storyName": "CapStar Team Revenge",
+	"weekName": "Christmas Eve",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week4",
+	"startUnlocked": true
+}

@@ -26,7 +26,7 @@ using StringTools;
 class MainMenuState extends MusicBeatState
 {
 	public static var psychEngineVersion:String = '0.6.3'; //This is also used for Discord RPC
-	public static var vtLatinVersion:String = 'W4'; //This is also used for Discord RPC
+	public static var vtLatinVersion:String = 'W5'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -109,7 +109,7 @@ class MainMenuState extends MusicBeatState
 		menuselection.antialiasing = ClientPrefs.globalAntialiasing;
 		add(menuselection);
 
-		var splash:FlxSprite = new FlxSprite(0,0).loadGraphic(Paths.image('menuselection/weekSplash'+FlxG.random.int(1,5)));
+		var splash:FlxSprite = new FlxSprite(0,0).loadGraphic(Paths.image('menuselection/weekSplash'+FlxG.random.int(1,6)));
 		splash.scrollFactor.set(0, 0);
 		splash.setGraphicSize(Std.int(splash.width * 1));
 		splash.antialiasing = ClientPrefs.globalAntialiasing;

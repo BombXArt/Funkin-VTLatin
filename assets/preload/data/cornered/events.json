@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rev-corner"
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rev-second"
+					]
+				]
+			],
+			[
+				106333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.02"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rev-corner"
+					]
+				]
+			]
+		]
+	}
+}
