@@ -6,10 +6,10 @@ function onCreate()
     makeAnimatedLuaSprite('zilverk', 'christmas/zilverk', -400, 300) 
 	setLuaSpriteScrollFactor('zilverk',0.9, 0.9);
 
-    makeAnimatedLuaSprite('lunaria', 'christmas/lunaria', 250, 60) 
+    makeAnimatedLuaSprite('lunaria', 'christmas/lunaria', 300, 60) 
 	setLuaSpriteScrollFactor('lunaria',0.9, 0.9);
 
-    makeAnimatedLuaSprite('parsirken', 'christmas/parsirken', 1600, 80) 
+    makeAnimatedLuaSprite('parsirken', 'christmas/parsirken', 1450, 80) 
 	setLuaSpriteScrollFactor('parsirken',0.9, 0.9);
 	
 	makeAnimatedLuaSprite('upperBop', 'christmas/upperBop', -400, -120) 
@@ -21,7 +21,7 @@ function onCreate()
 	makeLuaSprite('christmasTree', 'christmas/christmasTree', 290, -250);
 	setLuaSpriteScrollFactor('christmasTree', 0.40, 0.40);
 
-	makeLuaSprite('fgSnow', 'christmas/fgSnow', -730, 695);
+	makeLuaSprite('fgSnow', 'christmas/fgSnow', -630, 695);
 
 
 

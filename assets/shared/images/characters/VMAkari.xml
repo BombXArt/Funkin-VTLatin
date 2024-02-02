@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VMAkari.png">
+<SubTexture name="Down Note0000" x="0" y="0" width="480" height="607" frameX="-24" frameY="-175" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0001" x="0" y="0" width="480" height="607" frameX="-24" frameY="-175" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0002" x="480" y="0" width="478" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0003" x="480" y="0" width="478" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0004" x="958" y="0" width="480" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0005" x="958" y="0" width="480" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0006" x="958" y="0" width="480" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0007" x="958" y="0" width="480" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0008" x="958" y="0" width="480" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Down Note0009" x="958" y="0" width="480" height="610" frameX="-27" frameY="-170" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0000" x="1438" y="0" width="382" height="651" frameX="-49" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0001" x="1438" y="0" width="382" height="651" frameX="-49" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0002" x="1820" y="0" width="387" height="651" frameX="-46" frameY="-136" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0003" x="1820" y="0" width="387" height="651" frameX="-46" frameY="-136" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0004" x="0" y="651" width="394" height="654" frameX="-43" frameY="-131" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0005" x="0" y="651" width="394" height="654" frameX="-43" frameY="-131" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0006" x="394" y="651" width="401" height="656" frameX="-40" frameY="-127" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0007" x="394" y="651" width="401" height="656" frameX="-40" frameY="-127" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0008" x="795" y="651" width="407" height="657" frameX="-37" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0009" x="795" y="651" width="407" height="657" frameX="-37" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0010" x="795" y="651" width="407" height="657" frameX="-37" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0011" x="795" y="651" width="407" height="657" frameX="-37" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0012" x="795" y="651" width="407" height="657" frameX="-37" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Idle0013" x="795" y="651" width="407" height="657" frameX="-37" frameY="-126" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0000" x="1202" y="651" width="532" height="637" frameX="-27" frameY="-140" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0001" x="1202" y="651" width="532" height="637" frameX="-27" frameY="-140" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0002" x="1734" y="651" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0003" x="1734" y="651" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0004" x="0" y="1308" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0005" x="0" y="1308" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0006" x="0" y="1308" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0007" x="0" y="1308" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0008" x="0" y="1308" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Left Note0009" x="0" y="1308" width="531" height="639" frameX="-34" frameY="-138" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0000" x="531" y="1308" width="342" height="640" frameX="-91" frameY="-150" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0001" x="531" y="1308" width="342" height="640" frameX="-91" frameY="-150" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0002" x="873" y="1308" width="337" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0003" x="873" y="1308" width="337" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0004" x="1210" y="1308" width="336" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0005" x="1210" y="1308" width="336" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0006" x="1210" y="1308" width="336" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0007" x="1210" y="1308" width="336" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0008" x="1210" y="1308" width="336" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Right Note0009" x="1210" y="1308" width="336" height="643" frameX="-90" frameY="-147" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0000" x="1546" y="1308" width="397" height="552" frameX="-111" frameY="-122" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0001" x="1546" y="1308" width="397" height="552" frameX="-111" frameY="-122" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0002" x="0" y="1951" width="394" height="554" frameX="-114" frameY="-124" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0003" x="0" y="1951" width="394" height="554" frameX="-114" frameY="-124" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0004" x="394" y="1951" width="393" height="556" frameX="-115" frameY="-124" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0005" x="394" y="1951" width="393" height="556" frameX="-115" frameY="-124" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0006" x="394" y="1951" width="393" height="556" frameX="-115" frameY="-124" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0007" x="394" y="1951" width="393" height="556" frameX="-115" frameY="-124" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0008" x="394" y="1951" width="393" height="556" frameX="-115" frameY="-124" frameWidth="574" frameHeight="796" />
+<SubTexture name="Up Note0009" x="394" y="1951" width="393" height="556" frameX="-115" frameY="-124" frameWidth="574" frameHeight="796" />
+</TextureAtlas>

@@ -1,9 +1,9 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('rakback', 'rakback', -600, -300);
+	makeLuaSprite('rakback', 'rakback', -600, -200);
 	setScrollFactor('rakback', 0.9, 0.9);
 	
-	makeLuaSprite('rakfront', 'rakfront', -650, 600);
+	makeLuaSprite('rakfront', 'rakfront', -650, 550);
 	setScrollFactor('rakfront', 0.9, 0.9);
 	scaleObject('rakfront', 1.1, 1.1);
 
